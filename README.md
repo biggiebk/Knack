@@ -6,7 +6,7 @@ Knack is a tool that hopes to simplify the job of devopers and engineers when it
 There are other tools out their like this that are pretty full featured, however they never really meet my wants and desires.  One of things that I hope makes this tool unique is that it will be developed to work purely based off of the CLI and editing files by hand or other processes to help facilitate integration with other tools in the development chain.
 
 ## Functionality
-* HTTP/HTTPS Web Calls
+* Support for making local HTTP/HTTPS web calls
 * JSON and YAML friendly
 * Repeatable and recorded testing
 * Regex based patterns to determine successfull calls
