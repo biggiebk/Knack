@@ -1,4 +1,4 @@
-# Welcome to the Knack wiki!
+# Welcome to the Knack
 
 ## What is it?
 Knack is a tool that hopes to simplify the job of devopers and engineers when it comes to quickly testing and integrating with external calls, programs or processes.  The current focus of the tool is to support HTTPS based calls in particluar RESTful API's, however the hope is to expand it to other things like local commands, remote calls via SSH, or really whatever else we can dream up.
